@@ -386,6 +386,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Aditya Punmiya             | ![Aditya Punmiya](https://github.com/user-attachments/assets/5653c477-938d-4366-896c-ed552fcec578)                                                                        | [adityapunmiya.com](https://adityapunmiya.com/)                                                               | [GitHub](https://github.com/Aditya-0011/portfolio-website)                   | Next.js, Tailwind CSS, TypeScript, MongoDB, Nodemailer, Zod                                                    |
 | Aditya Induraj             | ![Aditya Induraj](https://github.com/user-attachments/assets/1285ac0f-13a2-4b79-959f-7eff2cf294e1)                                                                        | [adityainduraj.xyz](https://adityainduraj.xyz)                                                                | [GitHub](https://github.com/adityainduraj)                                   | Nextjs, Tailwind CSS, TypeScript, Vercel                                                                       |
 | Mathis Zeghouani           | ![mathisdev.pro](https://github.com/user-attachments/assets/228f65af-4d2f-4e27-a09f-0cffc9025d56)                                                                         | [mathisdev.pro](https://mathisdev.pro)                                                                        | [GitHub](https://github.com/mathisdev7/my-portfolio)                         | Next.js, React, Tailwind CSS, TypeScript, Vercel                                                               |
+| Bipin Kalakheti            | ![Bipin Kalakheti](https://github.com/user-attachments/assets/b3e391ad-5e31-467a-8927-680492009eea)                                                                       | [bipinkalakheti.vercel.app](https://bipinkalakheti.vercel.app/)                                               | [GitHub](https://github.com/Bipin-Kalakheti/portfolio_v2)                    | Next.js, Tailwind CSS, TypeScript, Vercel                                                                      |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
@@ -401,6 +402,8 @@ If you like this project and want to give back, consider buying me a coffee. I'l
 <a href="https://buymeacoffee.com/victoreke">
   <img width="170px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/163418953-1d32bf9c-317b-44ca-b773-44e36140fc9d.png">
 </a>
+![Uploading chrome-capture-2025-2-16.png…]()
+
 
 ## Contributors
 
